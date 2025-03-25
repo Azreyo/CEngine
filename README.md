@@ -165,7 +165,9 @@ include/imgui_impl_dx11.cpp ^
 -D_WIN32_WINNT=0x0601 ^
 -mwindows ^
 -O2 ^
--std=c++11
+-std=c++11 ^
+-Wl,-Bstatic -lstdc++ -lpthread -Wl,-Bdynamic ^
+-static
 ```
 
 ### Build Requirements
