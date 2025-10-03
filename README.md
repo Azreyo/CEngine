@@ -1,3 +1,5 @@
+> ⚠️ Currently inactive and can be broken
+
 # CEngine
 
 CEngine is a memory scanning and modification tool designed for game modders, developers, and enthusiasts. It allows you to examine and modify game memory values in real-time through an intuitive graphical interface.
